@@ -10,9 +10,17 @@
 }
 
 .lista-rs{
-   display:flex;
-   justify-content: space-around;
+     display: table;
+}
 
+.lista-rs li{
+    list-style-type: none;
+    display: table-cell;
+}
+
+.lista-rs li a{
+    display: block;
+    text-decoration: none;
 }
 
 body{
@@ -35,11 +43,6 @@ footer{
 @media screen and (min-width: 768px) and (max-width: 1540px){
     main{
     margin: 5px 30px;
-    }
-
-    .icons-rs{
-        display: flex;
-        justify-content: space-between;
     }
 
     .icons{
