@@ -31,6 +31,12 @@ footer{
     margin: 5px 30px;
     }
 
+       .logo{
+        width: 100px;
+        margin-bottom: 30px;
+        right: 30px;
+    }
+
   h1{
         color: #5C1362;
         font-size: 60px;
