@@ -11,8 +11,7 @@
 
 .lista-rs{
     display: table;
-    padding: 30px;
-    margin: 30px;
+    justify-content: space-between;
 }
 
 .lista-rs li{
