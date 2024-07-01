@@ -9,6 +9,10 @@
   padding: 0;
 }
 
+.lista-rs{
+   list-style: none;
+}
+
 body{
    background-color: #FBF4E8;
 }
