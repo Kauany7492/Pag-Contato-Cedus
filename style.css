@@ -39,7 +39,7 @@ footer{
         padding-top: 50px;    
     }
     
-    h3, p{
+    h3, p, adrress, email, telefone{
         color: #352C84;
         font-size: 20px;
         font-family: "Red Hat Display", sans-serif;;
