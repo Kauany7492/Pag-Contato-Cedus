@@ -13,6 +13,16 @@ footer{
   padding: 0 0 10px 10px;
  }
 
+ .icons-rs{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .icons{
+        width: 80px;
+        right: 80px;
+    }
+
  .logo{
  width: 80px;
 }
@@ -47,6 +57,16 @@ header{
  footer{
  width: 500px;
  }
+
+ .icons-rs{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .icons{
+        width: 80px;
+        right: 80px;
+    }
 
  .logo{
  width: 80px;
@@ -92,6 +112,16 @@ header{
     margin: 50px;
    margin-right: 150px;
   }
+
+ .icons-rs{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .icons{
+        width: 150px;
+        right: 150px;
+    }
 
  .logo{
         width: 150px;
