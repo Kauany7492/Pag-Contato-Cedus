@@ -24,7 +24,7 @@ footer{
    font-family: 'Rubik', sans-serif;
    }
 
- p, h3{
+  h3, p, .email, .telefone{
   font-size: 20px;
     color: #352c84;
    font-family: "Red Hat Display", sans-serif;;
@@ -62,7 +62,7 @@ header{
    font-family: 'Rubik', sans-serif;
    }
 
- p, h3{
+ h3, p, .email, .telefone{
   font-size: 20px;
     color: #352c84;
    font-family: "Red Hat Display", sans-serif;
@@ -107,7 +107,7 @@ header{
         padding-top: 60px;    
     }
     
-    h3, p{
+    h3, p, .email, .telefone{
         color: #352C84;
         font-size: 30px;
         font-family: "Red Hat Display", sans-serif;
