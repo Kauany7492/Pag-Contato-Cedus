@@ -10,17 +10,9 @@
 }
 
 .lista-rs{
-     display: table;
-}
+   display:flex;
+   justify-content: space-around;
 
-.lista-rs li{
-    list-style-type: none;
-    display: table-cell;
-}
-
-.lista-rs li a{
-    display: block;
-    text-decoration: none;
 }
 
 body{
