@@ -1,0 +1,106 @@
+@media screen and (min-width: 501px) and (max-width: 767px){
+
+footer{
+ width: 640px;
+}
+ 
+ header{
+  height: 40px;
+  width: 767px;
+ }
+ 
+ main{
+  padding: 0 0 10px 10px;
+ }
+ 
+ h1{
+  font-size: 60px;
+  color: #5C1362;
+   font-family: 'Rubik', sans-serif;
+   }
+
+ p, h3{
+  font-size: 20px;
+    color: #352c84;
+   font-family: "Red Hat Display", sans-serif;;
+ }
+
+ h2{
+  font-size: 30px;
+  color: #353c84;
+   font-family: 'Rubik', sans-serif;
+ }
+}
+
+@media screen and (min-width: 300px) and (max-width: 500px) {
+
+header{
+ width: 500px;
+ height: 30px;
+}
+ 
+ footer{
+ width: 500px;
+ }
+
+ main{
+  padding: 0 0 10px 10px;
+ }
+ 
+ h1{
+  font-size: 50px;
+  color: #5C1362;
+   font-family: 'Rubik', sans-serif;
+   }
+
+ p, h3{
+  font-size: 20px;
+    color: #352c84;
+   font-family: "Red Hat Display", sans-serif;
+ }
+
+ h2{
+  font-size: 30px;
+  color: #353c84;
+   font-family: 'Rubik', sans-serif;
+ }
+}
+
+@media screen and (min-width: 1541px) {
+   main{
+    margin: 5px 30px;
+    }
+
+ .mobile-menu{
+  padding-left: 50px;
+ }
+
+    nav{
+       justify-content: space-between;
+    }
+
+  .nav-home li {
+    margin: 50px;
+   margin-right: 150px;
+  }
+
+  h1{
+        color: #5C1362;
+        font-size: 70px;
+        font-family: 'Rubik', sans-serif;
+        margin-left: 25px;
+        padding-top: 60px;    
+    }
+    
+    h3, p{
+        color: #352C84;
+        font-size: 30px;
+        font-family: "Red Hat Display", sans-serif;
+    }
+
+    h2{
+        color: #352c84;
+        font-size: 50px;
+        font-family: 'Rubik', sans-serif;
+    }
+}
