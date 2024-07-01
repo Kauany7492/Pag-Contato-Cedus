@@ -10,7 +10,9 @@
 }
 
 .lista-rs{
-     display: table;
+    display: table;
+    padding: 15px;
+    margin: 20px;
 }
 
 .lista-rs li{
