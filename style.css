@@ -45,7 +45,7 @@ footer{
         padding-top: 50px;    
     }
     
-    h3, p, .endereco, .email, .telefone{
+    h3, p, .email, .telefone{
         color: #352C84;
         font-size: 20px;
         font-family: "Red Hat Display", sans-serif;;
