@@ -93,7 +93,7 @@ nav {
   display: flex;
   align-items: center;
   font-size: 23px;
-  justify-content: space-between;
+  justify-content: space-around;
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
   background: #ffffff;
