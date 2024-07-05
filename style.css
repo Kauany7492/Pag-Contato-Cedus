@@ -11,6 +11,7 @@
 
 .lista-rs{
     display: table;
+    justify-content: space-between;
 }
 
 .lista-rs li{
