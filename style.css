@@ -92,11 +92,12 @@ nav {
   display: flex;
   align-items: center;
   font-size: 23px;
+  justify-content: space-between;
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
   background: #ffffff;
   height: 8vh;
-background-color: #FBF4E8 ;
+  background-color: #FBF4E8 ;
 }
 
 .nav-list {
