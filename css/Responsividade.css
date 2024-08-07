@@ -30,6 +30,7 @@ footer{
  
  h1{
   font-size: 60px;
+  margin-top: 50px;
   color: #5C1362;
    font-family: 'Rubik', sans-serif;
    }
@@ -78,6 +79,7 @@ header{
  
  h1{
   font-size: 50px;
+  margin-top: 50px;
   color: #5C1362;
    font-family: 'Rubik', sans-serif;
    }
